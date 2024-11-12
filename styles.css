@@ -1,0 +1,35 @@
+img {
+    width: 380px;
+    border: 3px solid #121212;
+}
+body {
+    text-align: center;
+    color: #121212;
+}
+p {
+    font-style: italic;
+}
+::placeholder {
+    text-align: center;
+    font-size: bold;
+}
+.Iptbtn {
+    height: 30px;
+    width: 250px;
+}
+input {
+    border: 3px solid #121212;
+}
+button {
+    width: 250px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background: #121212;
+    border: none;
+}
+
+a {
+    color: #121212;
+}
